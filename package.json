@@ -32,7 +32,7 @@
     "@progress/kendo-angular-dateinputs": "^3.7.4",
     "@progress/kendo-angular-dialog": "^3.12.1",
     "@progress/kendo-angular-dropdowns": "^3.5.6",
-    "@progress/kendo-angular-editor": "^0.5.1",
+    "@progress/kendo-angular-editor": "^1.2.3",
     "@progress/kendo-angular-excel-export": "^2.4.0",
     "@progress/kendo-angular-grid": "^3.14.4",
     "@progress/kendo-angular-inputs": "^5.2.2",
